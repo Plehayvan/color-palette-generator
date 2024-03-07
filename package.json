@@ -1,15 +1,24 @@
 {
-  "name": "color-palette-generator",
-  "version": "1.0.0",
+  "name": "color-palette-generator-1",
+  "version": "1.0.1",
   "description": "A simple color palette generator for JavaScript",
   "main": "color-palette-generator.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
-  "keywords": ["color", "palette", "generator"],
-  "author": "Your Name",
+  "keywords": [
+    "color",
+    "palette",
+    "generator"
+  ],
+  "author": "plehayvan",
   "license": "MIT",
   "dependencies": {
+    "billymoor-graph-ql-second": "^1.0.4",
     "chroma-js": "^2.1.0"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/Plehayvan/color-palette-generator.git"
   }
 }
