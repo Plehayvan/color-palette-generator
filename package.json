@@ -1,0 +1,15 @@
+{
+  "name": "color-palette-generator",
+  "version": "1.0.0",
+  "description": "A simple color palette generator for JavaScript",
+  "main": "color-palette-generator.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": ["color", "palette", "generator"],
+  "author": "Your Name",
+  "license": "MIT",
+  "dependencies": {
+    "chroma-js": "^2.1.0"
+  }
+}
