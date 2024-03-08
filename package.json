@@ -2,7 +2,7 @@
   "name": "color-palette-generator-1",
   "version": "1.0.1",
   "description": "A simple color palette generator for JavaScript",
-  "main": "color-palette-generator.js",
+  "main": "color-palette-gesnerator.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
@@ -15,6 +15,7 @@
   "license": "MIT",
   "dependencies": {
     "billymoor-graph-ql-second": "^1.0.4",
+    "blockchain-integration-pleh": "^1.0.1",
     "chroma-js": "^2.1.0"
   },
   "repository": {
