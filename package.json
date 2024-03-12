@@ -1,6 +1,6 @@
 {
   "name": "color-palette-generator-1",
-  "version": "1.0.2",
+  "version": "1.0.3",
   "description": "A simple color palette generator for JavaScript",
   "main": "color-palette-gesnerator.js",
   "scripts": {
